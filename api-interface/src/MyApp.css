@@ -1,0 +1,13 @@
+html{
+    background:#919191;
+}
+#SuperMarketApp{
+    background: #dddddd;
+    margin: 5%;
+    border: 5px solid rgb(255, 255, 255);
+    padding:12px;
+}
+form{
+    background:rgb(187, 183, 214);
+    padding:6px;
+}
